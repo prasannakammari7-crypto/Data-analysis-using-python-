@@ -1,1 +1,1 @@
-# Data-analysis-using-python-
+This GitHub repository is created for learning Python data analysis. It includes Python basics for understanding core concepts, NumPy for numerical operations, and Pandas for data manipulation. Data visualization using Matplotlib is included to represent data clearly. All datasets used for practice are stored separately. The repository also contains a README file that gives an overview of the project.# Data-analysis-using-python-
